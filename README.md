@@ -1,12 +1,12 @@
 🃏 Dad Joke Generator
-A fun and interactive web app that delivers hilarious dad jokes with just one click! 😎
+🤣 Generates Random Dad Jokes with a single click.
+🎨 Modern UI Design featuring a sleek glassmorphism effect.
+⚡ Fast & Responsive for seamless performance.
+🔗 API Integration to fetch fresh and funny jokes.
+🖥️ Built with HTML, CSS, and JavaScript for simplicity and efficiency.
 
-🚀 Features
-🤣 Random Dad Jokes — Endless laughter with every click!
-🎨 Attractive UI Design — Sleek glassmorphism effect with a modern color scheme.
-⚡ Fast & Responsive — Optimized for smooth performance across devices.
-🔗 API Integration — Fetches fresh jokes from a joke API.
-🛠️ Tech Stack
-🖥️ HTML — Structured and semantic markup.
-🎯 CSS (Vanilla) — Beautiful custom styling with a clean design.
-📜 JavaScript — Dynamic functionality for fetching jokes.
+
+
+
+
+
